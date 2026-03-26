@@ -17,6 +17,7 @@ NLP (Natural Language Processing)
 Streamlit
 📂 Project Structure
 Real-time-Fake-News-Detector/
+Real-time-Fake-News-Detector/
 │
 ├── app.py                # Streamlit application
 ├── model/               # Model-related files
